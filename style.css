@@ -1,0 +1,13 @@
+body {
+    background-color: #FAA402;
+    background-image: url('Flame Border.png');
+    background-size: cover;
+}
+
+.person {   
+    height: 150px; 
+    width: auto;
+}
+h1 {
+    font-size: 70px;
+}
